@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64fbb6f04b2e8d34eb10f860b0477baa, type: 3}
+  m_Name: FishSpawnTable
+  m_EditorClassIdentifier: 
+  easyFishBracket:
+  - {fileID: 8563912852530882461, guid: 450a97574c68720448cd8710cdd70c15, type: 3}
+  mediumFishBracket:
+  - {fileID: 6992334793902544137, guid: 03032b117bb805c4da52889c7cfcee59, type: 3}
+  hardFishBracket:
+  - {fileID: 6257104922517427225, guid: abbf7aad0cfbe68419cfb015d89eb130, type: 3}
+  bossFishBracket:
+  - {fileID: 6924641535747867367, guid: d4c056e7453671341a0161a1cb330332, type: 3}
+  mediumFishThreshhold: 2
+  hardFishThreshhold: 6
+  bossFishThreshhold: 10
+  heatLevel: 2

@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: bfb8dc4eda459c44084cfd15f44b1c24
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: L_Eel_Idle_Yellow
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4a2cb3b38b93a45866fba58118e771
+      internalID: 190665751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Eel_Block_Yellow
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3035e5ad9db84c74abe9ac1201c13836
+      internalID: 1702068796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Eel_WindUp_Yellow
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 3
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2776296b1abf94290660ea19372983
+      internalID: 442545646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eel_Punch_Yellow
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dfd8606c3c5c1408003a8ce44b28f1
+      internalID: -58921429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eel_Miss_Yellow
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 3
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08406fdbcc1f98a4e83d03e03921b09c
+      internalID: -821921607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Eel_Hurt_Yellow
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3
+        width: 120
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd279b5a6a7e0344b8188159a2cd619
+      internalID: -405161099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eel_Dizzy_Yellow
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 3
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ddf97884d20b54ea9b16a601299e95
+      internalID: -878106791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eel_DizzyShakeOff_Yellow
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 3
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f368ce9cb1cb63d46ad6906e28d3dd4e
+      internalID: 665245908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Eel_Roar_Yellow
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 0
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cf0d811e81d7249ac9717c21863968
+      internalID: 897453463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Eel_RoarWindUp_Yellow
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 5
+        width: 139
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f7c9246bed32c49a063429d95c6c58
+      internalID: 753342560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_Idle_Yellow
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 3
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8300d84e5e986748bdc99f51c7cfc34
+      internalID: 661998779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_Block_Yellow
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 0
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6f393fadf2e1e40a753a8c2aed251b
+      internalID: 300523554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_WindUp_Yellow
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 3
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b192f6a635cd1246b294bc282116239
+      internalID: 1213890948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_Punch_Yellow
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 3
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a256ffddff61be74493ec09b867ea1c2
+      internalID: -718557791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_Miss_Yellow
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 3
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac7ff27fff7b3d4498b10c728ee07de
+      internalID: 1031396534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_Hurt_Yellow
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 3
+        width: 117
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36afd7a533b10ba43afb542125332760
+      internalID: 1134672393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_Roar_Yellow
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 0
+        width: 125
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f498cc51aa69a4bbab1a2b8c64f99e
+      internalID: 1118650071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_RoarWindUp_Yellow
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 5
+        width: 139
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba63616a2f04a942a54ed9c2cebb16d
+      internalID: 1611077682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Eel_Idle_Blue
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 0
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5300374b4fd98744db460d1732d6bab2
+      internalID: -691666897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Eel_Block_Blue
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 0
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e436f11aabd86b044972810e525abb4e
+      internalID: 1623130765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Eel_WindUp_Blue
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 3
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceb0f6f6bbc84a44b59bc41a0a00b36
+      internalID: 294805195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Eel_Punch_Blue
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 3
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e5acb6f7478c945a4e7db17dd2b261
+      internalID: 658869787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Eel_Miss_Blue
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 3
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411c79cc731f21743a1f2f252caabf47
+      internalID: -879634714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Eel_Hurt_Blue
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 3
+        width: 120
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a994d0e3057249b4386558e61cf9d
+      internalID: -708892840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Eel_Dizzy_Blue
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 3
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162a228c7b935c540b24076c83ca74df
+      internalID: 797028354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eel_DizzyShakeOff_Blue
+      rect:
+        serializedVersion: 2
+        x: 3813
+        y: 3
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cf421512a71d14388e8c413e262b79
+      internalID: -706138059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Eel_Roar_Blue
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 0
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a3a2ea89092a545bf646b347c8e110
+      internalID: -43672995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Eel_RoarWindUp_Blue
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 5
+        width: 139
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a44db836660023479c78fe40b77b6aa
+      internalID: -814795866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_Idle_Blue
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 3
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd93ad8ed724964986e85287df65291
+      internalID: -1630506815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_Block_Blue
+      rect:
+        serializedVersion: 2
+        x: 4449
+        y: 0
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45032b601fcd6f64a913915f9bd1498d
+      internalID: 979798038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_WindUp_Blue
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 3
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7b2b5995e0d3f4ab260c795c5b3628
+      internalID: 857022890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_Punch_Blue
+      rect:
+        serializedVersion: 2
+        x: 4735
+        y: 3
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a2e9bba5a5b10429cb5a8f42b3772a
+      internalID: 253156668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_Miss_Blue
+      rect:
+        serializedVersion: 2
+        x: 4887
+        y: 3
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f99ae5a7d637444af1b5a373e0b2d9
+      internalID: -664068730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_Hurt_Blue
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 3
+        width: 117
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e32f9823533a343b9eea7fbfd9b414
+      internalID: 1135806851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_Roar_Blue
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 0
+        width: 125
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688aa1a113595434cbd7f63effa004a4
+      internalID: -1661897732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Eel_RoarWindUp_Blue
+      rect:
+        serializedVersion: 2
+        x: 5320
+        y: 5
+        width: 139
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9279d96481d7204ab1f5fc92b9c786b
+      internalID: 1826672146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Eel_DizzyShakeOff_Blue: -814795866
+      Eel_DizzyShakeOff_Yellow: -1630506815
+      Eel_Dizzy_Yellow: -43672995
+      Eel_Miss_Yellow: -878106791
+      Eel_Punch_Yellow: -879634714
+      L_Eel_Block_Blue: 658869787
+      L_Eel_Block_Yellow: 442545646
+      L_Eel_Dizzy_Blue: -814795866
+      L_Eel_Hurt_Blue: -43672995
+      L_Eel_Hurt_Yellow: 1134672393
+      L_Eel_Idle_Blue: 857022890
+      L_Eel_Idle_Yellow: 1702068796
+      L_Eel_Miss_Blue: 797028354
+      L_Eel_Punch_Blue: -708892840
+      L_Eel_RoarWindUp_Blue: 190665751
+      L_Eel_RoarWindUp_Yellow: 753342560
+      L_Eel_Roar_Blue: 1826672146
+      L_Eel_Roar_Yellow: 897453463
+      L_Eel_WindUp_Blue: -879634714
+      L_Eel_WindUp_Yellow: -718557791
+      R_Eel_Block_Blue: 253156668
+      R_Eel_Block_Yellow: 1213890948
+      R_Eel_Hurt_Blue: -1661897732
+      R_Eel_Hurt_Yellow: 897453463
+      R_Eel_Idle_Blue: 658869787
+      R_Eel_Idle_Yellow: 300523554
+      R_Eel_Miss_Blue: 797028354
+      R_Eel_Miss_Yellow: -405161099
+      R_Eel_Punch_Blue: 1135806851
+      R_Eel_Punch_Yellow: -405161099
+      R_Eel_RoarWindUp_Blue: 661998779
+      R_Eel_RoarWindUp_Yellow: 1611077682
+      R_Eel_Roar_Blue: 190665751
+      R_Eel_Roar_Yellow: 1118650071
+      R_Eel_WindUp_Blue: -664068730
+      R_Eel_WindUp_Yellow: 1031396534
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

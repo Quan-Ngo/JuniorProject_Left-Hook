@@ -1,0 +1,1757 @@
+fileFormatVersion: 2
+guid: 11147e9a692a9fc48bb1635c0158d947
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: R_NessieFaceForwardTailUp
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 761
+        width: 153
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3c910ba7ba6004ea5e818426b07efd
+      internalID: -1579347134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieFaceForwardTailUp
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 757
+        width: 151
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea566784cc62555498d913dfecf30335
+      internalID: -1899773103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieLungeBodyWithFin
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 749
+        width: 247
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff7a9d7fcb26f440a0ecc1ba9363edb
+      internalID: -621932509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieLungeBodyWithFin
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 749
+        width: 248
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba886d93950e21d449f829e87d443313
+      internalID: 227660981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieLungeBody
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 752
+        width: 248
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9870e1c43566c3409fc2aa7ab682686
+      internalID: 1935596191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieLungeBody
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 750
+        width: 248
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5cf27ce63750140a880a5aebfbed3c
+      internalID: 283088535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieHeadRaisedIdle
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 752
+        width: 213
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67da6ee5e130ad4e912684d09b2fe03
+      internalID: -1614688497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieHeadRaisedIdle
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 752
+        width: 213
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4101ae181bf37f340883dfd1e26dbbfc
+      internalID: -100184621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_DazeShakeOff
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 752
+        width: 250
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d767fc5fd31f054ab8bb0ecb7158cab
+      internalID: -1222592458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_DazeShakeOff
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 752
+        width: 250
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0bf36c4d7159346b4d2c13b68e8960
+      internalID: -1487916632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieFaceForwardTailSide
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 576
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569e19d430fe9674e878b590c75736c4
+      internalID: 559681624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieFaceForwardTailSide
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 576
+        width: 152
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae9607d12da82f41a85dfbfc31b2165
+      internalID: 1600684547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieFaceForwardTailReady
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 572
+        width: 153
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3c240c67fdff0449541b4ba3d19869
+      internalID: -355518151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieFaceForwardTailReady
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 572
+        width: 153
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f476d1161423c7e49a08576c8a81706a
+      internalID: -800254465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieLungeBite
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 578
+        width: 136
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1f075dd1dde4249822cad2570554ac
+      internalID: -151870558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieLungeBite
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 578
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28ec8c661461ac47900aba89f87a4ac
+      internalID: -1177350254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieGetHit
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 590
+        width: 235
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e9e9face9e2024e937e2154d4873c2
+      internalID: -590702162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieGetHit
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 590
+        width: 235
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35489cffd68f3149bd2e18a148506ce
+      internalID: -1949100096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieStunned
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 561
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fdc6e5c8c2c6b408e728fa866ba681
+      internalID: -191927774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieStunned
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 561
+        width: 193
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8c777e0cfc1874098d7eb1f43f5612
+      internalID: 1667237266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieBlock
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 586
+        width: 107
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906df84499f03de439c53399d6b14db0
+      internalID: 1836922574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieBlock
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 586
+        width: 107
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f60b3b684735c43b5da07c41421825
+      internalID: -1661619290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieFaceForwardTailStrikeBlur
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 359
+        width: 188
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1143dce7da2d104b8635d4296b01a12
+      internalID: -1073425033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieFaceForwardTailStrikeBlur
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 359
+        width: 172
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddea0e6ee3633744bac08b325edbcfa
+      internalID: -1249457489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieFaceForwardTailStrike
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 359
+        width: 162
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cba85d618048f743b5972f627df1a0a
+      internalID: 1893874370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieFaceForwardTailStrike
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 359
+        width: 153
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e59a3ee2439b804ba02ad32edc39b24
+      internalID: -217234210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieSucceedsBite
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 422
+        width: 223
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edc6742a7c98e547bb87c280325d47b
+      internalID: -1837580387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieSucceedsBite
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 422
+        width: 223
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9a219929655b24da68cf6f9fd0d5cf
+      internalID: -1266787035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessiePullBackHead
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 421
+        width: 202
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d1237346ae22f4d8e071395f88f4ae
+      internalID: 503515302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessiePullBackHead
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 421
+        width: 201
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7102b857b5abd74786fd46c09ae4150
+      internalID: -2104010803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieHeadLoweredIdle
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 377
+        width: 188
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec3b7131c8e22b4a9017c79c5a22a45
+      internalID: 1265963539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieHeadLoweredIdle
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 378
+        width: 186
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65e8dbb7d8a3aa4fbde3d9db40f301d
+      internalID: -287515408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieFailsBite
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 301
+        width: 196
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25548ada8250aef4d9c7781d4003a41a
+      internalID: -837707425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieFailsBite
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 301
+        width: 196
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f520b1f80503948b731220d7fa856b
+      internalID: -1260579948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieLoopToBitePose
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 269
+        width: 149
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7235349b6c9cc84489130370302a3ae8
+      internalID: 1062081550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieLoopToBitePose
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 269
+        width: 150
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5572f5aac1a2b4eb652b8897252f68
+      internalID: -2077090885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_TailStraight
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 250
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9482f23dd146f20489fd2a436bc75dce
+      internalID: -1075782682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_TailStraight
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 251
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8686d9cfa341339459e891e5fb09b7d2
+      internalID: -19431700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_TailRaiseUp
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 323
+        width: 29
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a460e515a892d040b6a4ae97f338431
+      internalID: -54890158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_TailRaiseUp
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 323
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4657dd53c4abb474e8ed7df2ca0d1904
+      internalID: 471492050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieGetHitStayInPos
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 145
+        width: 279
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa404f4eba5368c44953f788971ec98c
+      internalID: -470289132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieGetHitStayInPos
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 145
+        width: 229
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d14edb859d1ee45a701b19ec8523b5
+      internalID: -1818912339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_NessieCloseHit
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 123
+        width: 281
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b8de7529027994aad512c088d6200e
+      internalID: 132101650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_NessieCloseHit
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 123
+        width: 281
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0cdee78993bf64f9be26c137dc50f0
+      internalID: 1439185952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_TailCurlTeller
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 248
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16f91bb7c6d133479bb701e660aca3d
+      internalID: -715645669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_TailCurlTeller
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 248
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b2675e66b7cef4796e4490d696e726
+      internalID: 1025029612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_TailTipStraight
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 262
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d62ac3f3e2a94da7d6235bb0d5e8a
+      internalID: 1390481401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_TailChonkWiggle
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 150
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f9d978d9e951745831c6a57a4b9138
+      internalID: 41203165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_TailChonkWiggle
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 153
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef57ae548cdd5447824d906537422f2
+      internalID: 986243345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_TailTipStraight
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 225
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f388ffc0337464795a86a958376b3e
+      internalID: -2130297194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NessieDefeat1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 11
+        width: 89
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e955984a52d134d88b8c41d62a1614
+      internalID: -1687726239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NessieDefeat2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 10
+        width: 83
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2624df97c1250a34b9462b44fd5ae9d4
+      internalID: 1776251118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NessieDefeat3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 24
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe1d1c2925ebe349a93cc020644d946
+      internalID: -1872383515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_TailAttackComeDown
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 123
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74155cd6c0c06b4b94c045b05e91996
+      internalID: 1368543919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_TailAttackComeDown
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 123
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f384c703eb20c5740b8f925f3f46bca7
+      internalID: 2047338678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_TailAttackSwipe
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 122
+        width: 143
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a7684ee7d6a7a44b71c218a804fddc
+      internalID: 1034142616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_TailAttackSwipe
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 122
+        width: 145
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b7b02c35c8e74f99a26c5fa234e1b
+      internalID: -809621348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NessieDefeat4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 32
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f7a652eea17f844a11795f82a2b9d8
+      internalID: 235275657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NessieDefeat5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 33
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237aecc5ce2561e499e7de89b9d9a87c
+      internalID: -1346253744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NessieDefeat6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 33
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fa88ae07f6aa046962111c4dea3c89
+      internalID: -1087498743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NessieDefeat7
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 33
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a3f629e67c6f24692c735ce2f7a383
+      internalID: -883243702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NessieDefeat8
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 32
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1697a0429dac1be4b94418f16a7ec7a6
+      internalID: 1313120149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NessieDefeat9
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 44
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508a14a9cc628cc45ae4a4cd4fcb5d58
+      internalID: 1064839400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NessieDefeat10
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 58
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee65e3d8518c8f4fac9c3df93d4fb73
+      internalID: 1871311878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NessieDefeat11
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 58
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb44ef8dbf1b574d96b0b7301f30764
+      internalID: -694799888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NessieDefeat12
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 71
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a633fe94217a02a448b95bd3e5393327
+      internalID: 56850938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_TailSpiral
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 36
+        width: 113
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d002c256fad69448a53ca6106bc3a8
+      internalID: -819555557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_TailSpiral
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 34
+        width: 113
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c9d4068c00595408a5e2bef81a3323
+      internalID: 650902270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_TailDipUnder
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 34
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad837077ebae1442aa149665a213067
+      internalID: -1291635269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_TailPeakOut
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 61
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3c226138de20a4a81860db7105014f
+      internalID: -1173354770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_TailPeakOut
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 61
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d84c04b07af9f3499d9df9c57a764bf
+      internalID: 1620386668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_TailDipUnder
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 34
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c2627a98b0405469154779c77ee383
+      internalID: -1028515406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_TailSquiggle
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 35
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3e36f5169d3134abfddb2ca2c59c95
+      internalID: 910604440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_TailSquiggle
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 34
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f62357d259111a4e99bec67b748f40b
+      internalID: 36813423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      L_DazeShakeOff: -1222592458
+      L_NessieBlock: 1836922574
+      L_NessieCloseHit: 132101650
+      L_NessieFaceForwardTailReady: -800254465
+      L_NessieFaceForwardTailSide: 559681624
+      L_NessieFaceForwardTailStrike: 1893874370
+      L_NessieFaceForwardTailStrikeBlur: -1073425033
+      L_NessieFaceForwardTailUp: -1899773103
+      L_NessieFailsBite: -837707425
+      L_NessieGetHit: -1949100096
+      L_NessieGetHitStayInPos: -470289132
+      L_NessieHeadLoweredIdle: -287515408
+      L_NessieHeadRaisedIdle: -1614688497
+      L_NessieLoopToBitePose: 1062081550
+      L_NessieLungeBite: -151870558
+      L_NessieLungeBody: 1935596191
+      L_NessieLungeBodyWithFin: -621932509
+      L_NessiePullBackHead: 503515302
+      L_NessieStunned: 1667237266
+      L_NessieSucceedsBite: -1837580387
+      L_TailAttackComeDown: 1368543919
+      L_TailAttackSwipe: 1034142616
+      L_TailChonkWiggle: 41203165
+      L_TailCurlTeller: -715645669
+      L_TailDipUnder: -1291635269
+      L_TailPeakOut: -1173354770
+      L_TailRaiseUp: -54890158
+      L_TailSpiral: -819555557
+      L_TailSquiggle: 910604440
+      L_TailStraight: -1075782682
+      L_TailTipStraight: -2130297194
+      LochnessSpriteSheet_47: -620586034
+      LochnessSpriteSheet_48: -841283998
+      LochnessSpriteSheet_62: 716216653
+      LochnessSpriteSheet_77: -482437621
+      LochnessSpriteSheet_78: -1486544638
+      LochnessSpriteSheet_79: 577850165
+      NessieDefeat1: -1687726239
+      NessieDefeat10: 1064839400
+      NessieDefeat11: 1871311878
+      NessieDefeat12: -694799888
+      NessieDefeat2: 1776251118
+      NessieDefeat3: -1872383515
+      NessieDefeat4: 235275657
+      NessieDefeat5: -1346253744
+      NessieDefeat6: -1087498743
+      NessieDefeat7: -883243702
+      NessieDefeat8: 1313120149
+      NessieDefeat9: 1064839400
+      R_DazeShakeOff: -1487916632
+      R_NessieBlock: -1661619290
+      R_NessieCloseHit: 1439185952
+      R_NessieFaceForwardTailReady: -355518151
+      R_NessieFaceForwardTailSide: 1600684547
+      R_NessieFaceForwardTailStrike: -217234210
+      R_NessieFaceForwardTailStrikeBlur: -1249457489
+      R_NessieFaceForwardTailUp: -1579347134
+      R_NessieFailsBite: -1260579948
+      R_NessieGetHit: -590702162
+      R_NessieGetHitStayInPos: -1818912339
+      R_NessieHeadLoweredIdle: 1265963539
+      R_NessieHeadRaisedIdle: -100184621
+      R_NessieLoopToBitePose: -2077090885
+      R_NessieLungeBite: -1177350254
+      R_NessieLungeBody: 283088535
+      R_NessieLungeBodyWithFin: 227660981
+      R_NessiePullBackHead: -2104010803
+      R_NessieStunned: -191927774
+      R_NessieSucceedsBite: -1266787035
+      R_TailAttackComeDown: 2047338678
+      R_TailAttackSwipe: -809621348
+      R_TailChonkWiggle: 471492050
+      R_TailCurlTeller: 1025029612
+      R_TailDipUnder: -1028515406
+      R_TailPeakOut: 1620386668
+      R_TailRaiseUp: 471492050
+      R_TailSpiral: 650902270
+      R_TailSquiggle: 36813423
+      R_TailStraight: -19431700
+      R_TailTipStraight: 1390481401
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
